@@ -1,5 +1,5 @@
 ## Description
-This extension adds little boxes next to class entries in ASU's class catalog that
+This Chrome extension adds little boxes next to class entries in ASU's class catalog that
 tell you if they overlap with any class on your schedule. They're color coded but
 reveal more information when you mouse over them. Examples of this are below,
 in the screenshots section.
