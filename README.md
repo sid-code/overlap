@@ -4,12 +4,17 @@ tell you if they overlap with any class on your schedule. They're color coded bu
 reveal more information when you mouse over them. Examples of this are below,
 in the screenshots section.
 
-Red means class overlaps, yellow means class doesn't overlap but is very close
-to another class (and therefore may be difficult to commute to in the short
-time) and green means the class does not overlap and isn't too close to another
-class. You can always mouse over the little boxes for details.
+| Color      | Meaning                            |
+|------------|------------------------------------|
+| **Red**    | The class overlaps with another    |
+|            | class                              |
+| **Yellow** | This class is 15 or fewer  minutes |
+|            | before or after another class      |
+| **Green**  | This class does not overlap and    |
+|            | is more than 15 minutes from       |
+|            | another class.                     |
 
-## Installation
+## Installation 
 Install this extension (todo: put instructions here) and then you can hide the
 button because it does nothing.
 
