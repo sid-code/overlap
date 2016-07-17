@@ -210,6 +210,7 @@ function addConflictColumn(icsText) {
       }
 
       overlapBox.title = altText;
+      overlapBox.style.width = "4px";
       overlapBox.style.backgroundColor = color;
       row.appendChild(overlapBox);
 
