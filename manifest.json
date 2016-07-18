@@ -1,7 +1,7 @@
 {
      "name": "ASU Scheduling Helper",
      "description": "Extends the course catalog page to tell the student if a course conflicts with his schedule.",
-     "version": "0.1",
+     "version": "0.2",
      "manifest_version": 2,
      "content_scripts": [{
          "js": ["ccext.js"],
