@@ -224,6 +224,7 @@ function addConflictColumn(icsText) {
 var query = location.search;
 var term = query.match(/&t=(\d+)/)[1];
 if (term) {
+  // Only if we can find our current term, request the student's calendar.
   var url = "https://webapp4.asu.edu/myasu/student/schedule?term="+term+"&format=ical";
   var x = new XMLHttpRequest();
 
