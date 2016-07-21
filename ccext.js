@@ -1,3 +1,12 @@
+// ==UserScript==
+// @name ASU Scheduling Helper
+// @namespace https://myasu.pls
+// @include https://webapp4.asu.edu/*
+// @description Extends the ASU class catalog to show whether classes overlap with your schedule
+// @version 1.0
+// ==/UserScript==
+
+
 
 // Assumes time is in format HHMMSS (an integer, military time)
 // returns the number of seconds past midnight
